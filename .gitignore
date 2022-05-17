@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+producer.py
+kafka-config.properties
+kafka-lb.yaml
+stock-controller.yaml
+producer-sink.yaml
+staging/
+kafka-orig/
+kafka-2/
